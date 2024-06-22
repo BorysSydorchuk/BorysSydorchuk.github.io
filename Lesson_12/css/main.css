@@ -1,0 +1,16 @@
+* {
+    display: inline-block;
+}
+.box {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+    margin-right: 0px;
+    border: 0px;
+    position: fixed;
+    left: 50%;
+    margin-left: -150px;
+    top: 0;
+}

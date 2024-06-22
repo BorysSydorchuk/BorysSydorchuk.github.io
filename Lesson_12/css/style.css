@@ -1,0 +1,39 @@
+.header{
+    font-size: 20px;
+    margin-top: 10px;
+    line-height: 1.5;
+
+}
+.header span {
+    display: block;
+}
+.link {
+    display: block;
+}
+.form{
+    border: 5px solid blue;
+    padding: 35px;
+}
+.form-header, .section-header{
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.inp-btn{
+    padding: 0px 20px;
+}
+.form-btn{
+    margin: 10px 0px;
+}
+.feature{
+    margin: 60px auto;
+}
+.feature p{
+    margin-top: 20px;
+}
+.section-2{
+    margin-top: 100px;
+}
+.row-vid{
+    padding: 60px 0;
+}
